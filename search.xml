@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>test</title>
+      <link href="/posts/d87f7e0c.html"/>
+      <url>/posts/d87f7e0c.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/posts/4a17b156.html"/>
       <url>/posts/4a17b156.html</url>
@@ -17,6 +30,17 @@
     
   
   
+    
+    
+    <entry>
+      <title></title>
+      <link href="/manifest.json"/>
+      <url>/manifest.json</url>
+      
+        <content type="html"><![CDATA[{"name":"Blog","short_name":"","theme_color":"#3b70fc","background_color":"#3b70fc","display":"standalone","scope":"/","start_url":"/","icons":[{"src":"/img/siteicon/棒棒糖16.png","sizes":"16x16","type":"image/png"},{"src":"/img/siteicon/棒棒糖32.png","sizes":"32x32","type":"image/png"},{"src":"/img/siteicon/棒棒糖48.png","sizes":"48x48","type":"image/png"},{"src":"/img/siteicon/棒棒糖64.png","sizes":"64x64","type":"image/png"},{"src":"/img/siteicon/棒棒糖128.png","sizes":"128x128","type":"image/png"},{"src":"/img/siteicon/棒棒糖144.png","sizes":"144x144","type":"image/png"},{"src":"/img/siteicon/棒棒糖512.png","sizes":"512x512","type":"image/png"}],"splash_pages":null}]]></content>
+      
+    </entry>
+    
     
   
 </search>
