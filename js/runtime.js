@@ -17,7 +17,7 @@ function createtime() {
     (currentTimeHtml =
         hnum < 18 && hnum >= 9
             ? `<img class='boardsign' src='/img/横栏.png' title='努力生活'><span class='textTip'> <br> 本站居然运行了 ${dnum} 天</span><span id='runtime'> ${hnum} 小时 ${mnum} 分 ${snum} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>`
-            : `<img class='boardsign' src='public/img/横栏.png' title='下班了就该开开心心的玩耍，嘿嘿~'><span class='textTip'> <br> 本站居然运行了 ${dnum} 天</span><span id='runtime'> ${hnum} 小时 ${mnum} 分 ${snum} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>`),
+            : `<img class='boardsign' src='/img/横栏.png' title='下班了就该开开心心的玩耍，嘿嘿~'><span class='textTip'> <br> 本站居然运行了 ${dnum} 天</span><span id='runtime'> ${hnum} 小时 ${mnum} 分 ${snum} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>`),
     document.getElementById("workboard") && (document.getElementById("workboard").innerHTML = currentTimeHtml);
 }
 setInterval(() => {
